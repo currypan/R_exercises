@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## dplyr
 
-- データフレームなどのの操作に特化したパッケージ
+- データフレームなどの操作に特化したパッケージ
 - Hadley Wickham（ハドリー・ウィッカム）氏が作成
     - plyr、ggplot2などの作者
 - C++で書かれているのでものすごい早い
